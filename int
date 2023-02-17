@@ -1,0 +1,35 @@
+What is a swap space?
+How can you find out how much memory Linux is using?
+How do you change permissions under Linux?
+What is network bonding in Linux? What are the network bonding modes?
+How to check the default route and routing table?
+How to check which ports are listening in my Linux Server?
+How to share a directory using NFS?
+What are the default ports used for SMTP, DNS, FTP, DHCP, SSH, and squid?
+How to lock a user account in Linux?
+Explain about chmod and chown command?
+How to exit from vi editors?
+What is Zombie Process?
+What is the iptables command in Linux?
+How do you limit memory usage for commands?
+How do you find who is logged in?
+What is LVM and why is it required?
+What is load average in Linux?
+Why /etc/resolv.conf and /etc/hosts files are used?
+What is samba? Why is it required?
+What would be a simple way to continuously monitor the log file for a service that is running?
+What are some basic measures that you would take to harden a server’s SSH service?
+How would you write a shell script and ensure that only one instance of the script may run for every user? Strong atomicity is not required.
+What does sar provide? Where are the sar logs stored?
+What does sar provide? Where are the sar logs stored?
+What is Soft Link? What is Hard Link?
+What is the name and path of the main system log?
+What daemon is used for scheduling commands?
+If a volume group named VG0 already exists and we need to extend this volume group up to 4 GB, how do we do it?
+How would you create an ext4 file system?
+What is the use of vMotion?
+How to setup passwordless login in linux?
+What file needs to be updated in Ansible to add hosts and what is the ansible configuration file?
+
+
+
